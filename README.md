@@ -20,4 +20,4 @@ The dataset for this project contains images of different crops, each labeled wi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourGitHubUsername/Crop-Disease-Identification
+   git clone https://github.com/Srinathi117/Crop-Disease-Identification
